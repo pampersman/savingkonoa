@@ -1,0 +1,8 @@
+main: savekonoa.pampers
+name: savekonoa
+version: 1.0.0
+commands:
+  konoa:
+    description: No Setsumeibun
+    usage: /<command>
+    default: true
